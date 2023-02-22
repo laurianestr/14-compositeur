@@ -1,10 +1,32 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #2d2d2d;
+  background: white;
 }
 
 img {
+  padding: none;
+  margin: none;
   display: block;
   max-width: 100%;
+  
 }
+
+h1, h2, h4 {
+  text-align: center;
+}
+
+.blue {
+  background-color: #CFECCF;
+  color: #2D2D2D;
+}
+
+.grey {
+  background-color: #2D2D2D;
+  color: #CFECCF;
+}
+
+footer p {
+  text-align: center;
+}
+
