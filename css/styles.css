@@ -2,6 +2,15 @@ body {
   max-width: 320px;
   margin: auto;
   background: white;
+  font-family: 'Unbounded', cursive;
+}
+
+h1 {
+  font-family: "bd-geminis", sans-serif;
+}
+
+h2 {
+  font-family: "bd-geminis", sans-serif;
 }
 
 img {
@@ -27,5 +36,3 @@ h1, h2, h4 {
 footer p {
   text-align: center;
 }
-
-
