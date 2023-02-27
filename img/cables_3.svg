@@ -3,23 +3,21 @@
 <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 320 115.1" style="enable-background:new 0 0 320 115.1;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#CFECCF;stroke-width:1.5676;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#CFECCF;stroke-width:1.6803;stroke-miterlimit:10;}
-	.st2{fill:#CFECCF;}
-	.st3{fill:none;stroke:#CFECCF;stroke-width:1.7594;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#BAEBCC;stroke-width:1.5676;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#BAEBCC;stroke-width:1.6803;stroke-miterlimit:10;}
+	.st2{fill:#BAEBCC;}
+	.st3{fill:none;stroke:#BAEBCC;stroke-width:1.7594;stroke-miterlimit:10;}
 </style>
-<g>
-	<path class="st0" d="M55.3,11.1H32.6c-2,0-3.6,1.4-3.6,3.1V111c0,1.8-1.6,3.2-3.7,3.2H0"/>
-	<path class="st0" d="M40.1,7H29.4C27,7,25,8.8,25,10.9v94.9c0,2-1.8,3.6-4.1,3.6H0"/>
-	<path class="st1" d="M320.1,97.8h-87.5c-1.9,0-3.4-1.5-3.4-3.4V35.6"/>
-	<path class="st1" d="M233.4,39v51c0,1.8,1.5,3.3,3.3,3.3h83.4"/>
-	<path class="st1" d="M201.4,44.2v13.4c0,1.5,1.2,2.6,2.6,2.6h116"/>
-	<rect x="225.8" y="56.6" class="st2" width="10.9" height="16.8"/>
-	<path class="st1" d="M0,71.9h82.3c1.5,0,2.8-1.2,2.8-2.8V48.3"/>
-	<path class="st1" d="M99.7,48.3v34.9c0,2-1.6,3.7-3.7,3.7H0.1"/>
-	<path class="st1" d="M92.3,48.3v29c0,1.6-1.3,2.8-2.8,2.8H0"/>
-	<rect x="21.7" y="68.4" class="st2" width="10.9" height="23.5"/>
-	<path class="st1" d="M196.6,44.2v17.9c0,1.7,1.4,3.1,3.1,3.1h120.3"/>
-	<path class="st3" d="M192.2,41.5v24.9c0,2,1.6,3.7,3.7,3.7h124.4"/>
-</g>
+<path class="st0" d="M55.3,11.1H32.6c-2,0-3.6,1.4-3.6,3.1V111c0,1.8-1.6,3.2-3.7,3.2H0"/>
+<path class="st0" d="M40.1,7H29.4C27,7,25,8.8,25,10.9v94.9c0,2-1.8,3.6-4.1,3.6H0"/>
+<path class="st1" d="M320.1,97.8h-87.5c-1.9,0-3.4-1.5-3.4-3.4V35.6"/>
+<path class="st1" d="M233.4,39v51c0,1.8,1.5,3.3,3.3,3.3h83.4"/>
+<path class="st1" d="M201.4,44.2v13.4c0,1.5,1.2,2.6,2.6,2.6h116"/>
+<rect x="225.8" y="56.6" class="st2" width="10.9" height="16.8"/>
+<path class="st1" d="M0,71.9h82.3c1.5,0,2.8-1.2,2.8-2.8V48.3"/>
+<path class="st1" d="M99.7,48.3v34.9c0,2-1.6,3.7-3.7,3.7H0.1"/>
+<path class="st1" d="M92.3,48.3v29c0,1.6-1.3,2.8-2.8,2.8H0"/>
+<rect x="21.7" y="68.4" class="st2" width="10.9" height="23.5"/>
+<path class="st1" d="M196.6,44.2v17.9c0,1.7,1.4,3.1,3.1,3.1H320"/>
+<path class="st3" d="M192.2,41.5v24.9c0,2,1.6,3.7,3.7,3.7h124.4"/>
 </svg>

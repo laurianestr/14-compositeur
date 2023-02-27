@@ -5,18 +5,19 @@ body {
   font-family: 'Unbounded', cursive;
 }
 
+img {
+  display: block;
+  max-width: 100%;
+}
+
 h1 {
   font-family: "bd-geminis", sans-serif;
+  margin: 0;
 }
 
 h2 {
   font-family: "bd-geminis", sans-serif;
-}
-
-img {
-  display: block;
-  max-width: 100%;
-  
+  margin: 0;
 }
 
 h1, h2, h4 {
@@ -24,15 +25,17 @@ h1, h2, h4 {
 }
 
 .blue {
-  background-color: #CFECCF;
+  background-color: #BAEBCC;
   color: #2D2D2D;
 }
 
 .grey {
   background-color: #2D2D2D;
-  color: #CFECCF;
+  color: #BAEBCC;
 }
 
 footer p {
   text-align: center;
+  margin: 0;
 }
+
