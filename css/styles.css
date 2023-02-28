@@ -16,6 +16,10 @@ main p {
   margin-right: 30px;
 }
 
+.grey h4 {
+  padding-bottom: 20px;
+}
+
 h1 {
   font-family: "bd-geminis", sans-serif;
   margin: 0;
@@ -91,7 +95,7 @@ footer p {
   text-align: center;
   margin: 0;
   font-size: 12px;
-  padding-top: 45px;
+  padding-top: 50px;
   padding-bottom: 22px;
 }
 
