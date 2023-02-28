@@ -29,7 +29,7 @@ h2 {
   margin: 0;
   font-size: 55px;
   padding: 10px;
-  padding-top: 55px;
+  padding-top: 30px;
   padding-bottom: 15px;
 }
 
@@ -45,10 +45,22 @@ h3 {
   border-top-right-radius: 10px;
 }
 
-main .grey p {
-  margin-top: 40px;
-  padding-bottom: 40px;
+.grey .green img {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 40px;
+  padding-bottom: 0;
+  box-sizing: border-box;
 }
+
+.blue .green img {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 0;
+  box-sizing: border-box;
+}
+
 
 h4 {
   font-size: 10px;
@@ -58,7 +70,7 @@ h4 {
 .grey h2 {
   font-size: 55px;
   padding: 25px;
-  padding-top: 55px;
+  padding-top: 30px;
 }
 
 h1, h2, h4 {
