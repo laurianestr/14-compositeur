@@ -49,7 +49,7 @@ h3 {
   border-top-right-radius: 10px;
 }
 
-.grey .green img {
+.grey .photo img {
   padding-left: 30px;
   padding-right: 30px;
   padding-top: 40px;
@@ -57,14 +57,13 @@ h3 {
   box-sizing: border-box;
 }
 
-.blue .green img {
+.blue .photo img {
   padding-left: 30px;
   padding-right: 30px;
   padding-top: 10px;
   padding-bottom: 0;
   box-sizing: border-box;
 }
-
 
 h4 {
   font-size: 10px;
